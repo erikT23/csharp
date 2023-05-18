@@ -1,0 +1,15 @@
+e:\Nueva carpeta (2)\csharp\Actividad6\bin\Debug\net7.0\Actividad6.exe
+e:\Nueva carpeta (2)\csharp\Actividad6\bin\Debug\net7.0\Actividad6.deps.json
+e:\Nueva carpeta (2)\csharp\Actividad6\bin\Debug\net7.0\Actividad6.runtimeconfig.json
+e:\Nueva carpeta (2)\csharp\Actividad6\bin\Debug\net7.0\Actividad6.dll
+e:\Nueva carpeta (2)\csharp\Actividad6\bin\Debug\net7.0\Actividad6.pdb
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.csproj.AssemblyReference.cache
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.GeneratedMSBuildEditorConfig.editorconfig
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.AssemblyInfoInputs.cache
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.AssemblyInfo.cs
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.csproj.CoreCompileInputs.cache
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.dll
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\refint\Actividad6.dll
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.pdb
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.genruntimeconfig.cache
+e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\ref\Actividad6.dll
