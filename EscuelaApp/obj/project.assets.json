@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\Actividad6.csproj",
-      "projectName": "Actividad6",
-      "projectPath": "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\Actividad6.csproj",
+      "projectUniqueName": "C:\\Users\\CA3\\Documents\\csharp\\EscuelaApp\\EscuelaApp.csproj",
+      "projectName": "EscuelaApp",
+      "projectPath": "C:\\Users\\CA3\\Documents\\csharp\\EscuelaApp\\EscuelaApp.csproj",
       "packagesPath": "C:\\Users\\CA3\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\obj\\",
+      "outputPath": "C:\\Users\\CA3\\Documents\\csharp\\EscuelaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CA3\\AppData\\Roaming\\NuGet\\NuGet.Config"

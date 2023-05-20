@@ -49,7 +49,7 @@
 
     static double CalcularBonoAntiguedad(string departamento, int antiguedad)
     {
-        double salarioMinimo = 180;
+        double salarioMinimo = 207.44;
 
         if (departamento == "a")
         {

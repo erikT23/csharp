@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\Actividad6.csproj": {}
+    "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\Actividad8.csproj": {}
   },
   "projects": {
-    "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\Actividad6.csproj": {
+    "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\Actividad8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\Actividad6.csproj",
-        "projectName": "Actividad6",
-        "projectPath": "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\Actividad6.csproj",
+        "projectUniqueName": "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\Actividad8.csproj",
+        "projectName": "Actividad8",
+        "projectPath": "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\Actividad8.csproj",
         "packagesPath": "C:\\Users\\CA3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\CA3\\Documents\\csharp\\Actividad6\\obj\\",
+        "outputPath": "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CA3\\AppData\\Roaming\\NuGet\\NuGet.Config"

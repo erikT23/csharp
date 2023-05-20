@@ -13,3 +13,18 @@ e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\refint\Actividad6.dll
 e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.pdb
 e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\Actividad6.genruntimeconfig.cache
 e:\Nueva carpeta (2)\csharp\Actividad6\obj\Debug\net7.0\ref\Actividad6.dll
+c:\Users\CA3\Documents\csharp\Actividad6\bin\Debug\net7.0\Actividad6.exe
+c:\Users\CA3\Documents\csharp\Actividad6\bin\Debug\net7.0\Actividad6.deps.json
+c:\Users\CA3\Documents\csharp\Actividad6\bin\Debug\net7.0\Actividad6.runtimeconfig.json
+c:\Users\CA3\Documents\csharp\Actividad6\bin\Debug\net7.0\Actividad6.dll
+c:\Users\CA3\Documents\csharp\Actividad6\bin\Debug\net7.0\Actividad6.pdb
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.csproj.AssemblyReference.cache
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.AssemblyInfoInputs.cache
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.AssemblyInfo.cs
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.csproj.CoreCompileInputs.cache
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.dll
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\refint\Actividad6.dll
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.pdb
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\Actividad6.genruntimeconfig.cache
+c:\Users\CA3\Documents\csharp\Actividad6\obj\Debug\net7.0\ref\Actividad6.dll
