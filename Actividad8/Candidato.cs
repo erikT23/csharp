@@ -1,8 +1,34 @@
 using System;
+
 class Candidato
 {
+    private string? nombre;
+    private int numeroVotos;
 
-private string? nombre;
+    public Candidato()
+    {
+    }
 
-private int numeroVotos;
+    public Candidato(string nombre)
+    {
+        this.nombre = nombre;
+    }
+
+    public string Nombre
+    {
+        get { return nombre; }
+        set { nombre = value; }
+    }
+
+    public int NumeroVotos
+    {
+        get { return numeroVotos; }
+        set { numeroVotos = value; }
+    }
+
+
+
+
+
+
 }

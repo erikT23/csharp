@@ -1,25 +1,57 @@
 ﻿class Program
-
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Ingrese la antigüedad del empleado en meses:");
+        int antiguedad;
+        bool antiguedadValida = false;
 
-        if (!int.TryParse(Console.ReadLine(), out int antiguedad))
+        do
         {
-            Console.WriteLine("Error: ¡Ingrese solo números!");
-            return;
-        }
+            if (!int.TryParse(Console.ReadLine(), out antiguedad))
+            {
+                Console.WriteLine("Error: ¡Ingrese solo números!");
+            }
+            else
+            {
+                antiguedadValida = true;
+            }
+        } while (!antiguedadValida);
+
+        Console.WriteLine("Ingrese el departamento del empleado (a, b, c):");
+        string departamento;
+        bool departamentoValido = false;
+
+        do
+        {
+            departamento = Console.ReadLine();
+
+            if (departamento != "a" && departamento != "b" && departamento != "c")
+            {
+                Console.WriteLine("Error: ¡Departamento inválido!");
+            }
+            else
+            {
+                departamentoValido = true;
+            }
+        } while (!departamentoValido);
 
         Console.WriteLine("Ingrese la cantidad de hijos del empleado:");
+        int cantidadHijos;
+        bool cantidadHijosValida = false;
 
-        if (!int.TryParse(Console.ReadLine(), out int cantidadHijos))
+        do
         {
-            Console.WriteLine("Error: ¡Ingrese solo números!");
-            return;
-        }
+            if (!int.TryParse(Console.ReadLine(), out cantidadHijos))
+            {
+                Console.WriteLine("Error: ¡Ingrese solo números!");
+            }
+            else
+            {
+                cantidadHijosValida = true;
+            }
+        } while (!cantidadHijosValida);
 
-        string departamento = CalcularDepartamento(antiguedad);
         double bonoAntiguedad = CalcularBonoAntiguedad(departamento, antiguedad);
         double bonoHijos = CalcularBonoHijos(cantidadHijos);
 
@@ -29,22 +61,6 @@
         Console.WriteLine("El bono por antigüedad es: " + bonoAntiguedad);
         Console.WriteLine("El bono por hijos es: " + bonoHijos);
         Console.WriteLine("El bono total es: " + bonoTotal);
-    }
-
-    static string CalcularDepartamento(int antiguedad)
-    {
-        if (antiguedad < 24 || (antiguedad >= 24 && antiguedad <= 35))
-        {
-            return "a";
-        }
-        else if (antiguedad < 36 || (antiguedad >= 36 && antiguedad <= 59))
-        {
-            return "b";
-        }
-        else
-        {
-            return "c";
-        }
     }
 
     static double CalcularBonoAntiguedad(string departamento, int antiguedad)
@@ -96,10 +112,6 @@
         double bonoPorHijo = 150;
 
         return bonoPorHijo * cantidadHijos;
+
     }
-
-
 }
-
-
-

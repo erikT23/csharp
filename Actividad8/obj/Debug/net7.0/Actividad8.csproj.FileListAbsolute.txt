@@ -1,0 +1,15 @@
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.csproj.AssemblyReference.cache
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.GeneratedMSBuildEditorConfig.editorconfig
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.AssemblyInfoInputs.cache
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.AssemblyInfo.cs
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.csproj.CoreCompileInputs.cache
+e:\Nueva carpeta (2)\csharp\Actividad8\bin\Debug\net7.0\Actividad8.exe
+e:\Nueva carpeta (2)\csharp\Actividad8\bin\Debug\net7.0\Actividad8.deps.json
+e:\Nueva carpeta (2)\csharp\Actividad8\bin\Debug\net7.0\Actividad8.runtimeconfig.json
+e:\Nueva carpeta (2)\csharp\Actividad8\bin\Debug\net7.0\Actividad8.dll
+e:\Nueva carpeta (2)\csharp\Actividad8\bin\Debug\net7.0\Actividad8.pdb
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.dll
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\refint\Actividad8.dll
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.pdb
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\Actividad8.genruntimeconfig.cache
+e:\Nueva carpeta (2)\csharp\Actividad8\obj\Debug\net7.0\ref\Actividad8.dll

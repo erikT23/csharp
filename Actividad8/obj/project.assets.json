@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CA3\\.nuget\\packages\\": {}
+    "C:\\Users\\Erik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\Actividad8.csproj",
+      "projectUniqueName": "e:\\Nueva carpeta (2)\\csharp\\Actividad8\\Actividad8.csproj",
       "projectName": "Actividad8",
-      "projectPath": "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\Actividad8.csproj",
-      "packagesPath": "C:\\Users\\CA3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CA3\\Documents\\csharp\\Actividad8\\obj\\",
+      "projectPath": "e:\\Nueva carpeta (2)\\csharp\\Actividad8\\Actividad8.csproj",
+      "packagesPath": "C:\\Users\\Erik\\.nuget\\packages\\",
+      "outputPath": "e:\\Nueva carpeta (2)\\csharp\\Actividad8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CA3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Erik\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
