@@ -36,7 +36,7 @@ class TestOperacionesBancarias
         Console.WriteLine(nip);
         Console.WriteLine(nombreTitular);
         Console.WriteLine(saldo);
-        cuenta1 = new CuentaBancaria(nombreTitular, saldo, nip);
+        CuentaBancaria cuenta1 = new CuentaBancaria(nombreTitular, saldo, nip);
         Console.WriteLine(cuenta1);
 
 
