@@ -1,8 +1,11 @@
-using System;
 class Candidato
 {
+    public string Nombre { get; set; }
+    public int NumeroVotos { get; set; }
 
-private string? nombre;
-
-private int numeroVotos;
+    public Candidato(string nombre)
+    {
+        Nombre = nombre;
+        NumeroVotos = 0;
+    }
 }
