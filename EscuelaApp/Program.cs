@@ -8,6 +8,6 @@ class Program
         objEstudiante.Nombre = "erik";
         objEstudiante.ApellidoPaterno = "tapia";
         objEstudiante.ApellidoMaterno = "guzman";
-        
+
     }
 }

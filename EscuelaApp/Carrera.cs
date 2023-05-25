@@ -22,5 +22,13 @@ public class Carrera
         this.nombre = nombre;
     }
 
+    public Carrera(int id, string? nombre)
+    {
+        Id = id;
+        Nombre = nombre;
+    }
 
+    public Carrera()
+    {
+    }
 }

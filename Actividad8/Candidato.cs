@@ -1,3 +1,4 @@
+
 using System;
 
 class Candidato
@@ -25,10 +26,5 @@ class Candidato
         get { return numeroVotos; }
         set { numeroVotos = value; }
     }
-
-
-
-
-
 
 }
