@@ -1,0 +1,56 @@
+using System;
+
+class TestPersona{
+
+    static void Main(String[] args){
+
+        
+
+        Console.WriteLine("Bienvenido! Cree su usuario");
+        Console.WriteLine("Ingrese su username");
+        string Nombre = Console.ReadLine();
+        Console.WriteLine("Ingrese su edad");
+        int Edad = int.Parse(Console.ReadLine());
+        Console.WriteLine("Ingrese su Estatura (Con puntos decimales)");
+        float Estatura = float.Parse(Console.ReadLine());
+        Console.WriteLine("Ingrese su sexo (F O M )");
+        char Sexo = char.Parse(Console.ReadLine());
+        Console.WriteLine("Cual es su estado civil? \n 1- Casad@ \n 2- Solter@");
+        int opcion = int.Parse(Console.ReadLine());
+        bool EstadoCivil = false;
+        switch (opcion){
+            case 1:
+            EstadoCivil = true;
+            break;
+
+            case 2:
+            EstadoCivil = false;
+            break;
+                        
+        }
+        Persona objPersona = new Persona (Nombre,Edad,Estatura,Sexo,EstadoCivil);
+        Console.WriteLine("Registro Exitoso!");
+       
+        
+        int opcionDo = 0;
+        do
+        {
+        Console.WriteLine("1.- Mostrar los datos \n 2.-Cambiar los datos \n 3.- Salir");
+        opcionDo = int.Parse(Console.ReadLine());
+        switch(opcionDo){
+
+            case 1:
+            Console.WriteLine("Datos de usuario");
+            Console.WriteLine(objPersona.Obtener());
+            
+            break;
+
+            case 2:
+            objPersona.Modificar();
+            break;
+            
+        }
+        
+        } while (opcionDo < 3);
+    }
+}

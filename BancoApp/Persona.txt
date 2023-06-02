@@ -1,0 +1,151 @@
+using System;
+
+class Persona{
+
+    private string nombre;
+    public string Nombre{
+        get {return nombre;}
+        set {nombre = value;}
+    }
+
+    private int edad;
+    public int Edad{
+        get{return edad;}
+        set{edad = value;}
+    }
+
+    private float estatura;
+    public float Estatura{
+        get {return edad;}
+        set {estatura = value;}
+    }
+
+    private char sexo;
+    public char Sexo{
+        get {return sexo;}
+        set {sexo = value;}
+    }
+
+    private bool estadocivil;
+    public bool EstadoCivil{
+        get {return estadocivil;}
+        set {estadocivil = value;}
+    }  
+
+    // public Persona (){}
+
+    public Persona (string nombre, int edad, float estatura, char sexo, bool estadocivil){
+        this.Nombre = nombre;
+        this.Edad = edad;
+        this.Estatura = estatura;
+        this.Sexo = sexo;
+        this.EstadoCivil = estadocivil;
+    }
+
+    public string Obtener(){
+        Console.WriteLine("Nombre de usuario: "+nombre);
+        Console.WriteLine("Edad de usuario: "+edad);
+        Console.WriteLine("Estatura Usuario: "+estatura);
+        Console.WriteLine("Sexo Usuario: "+sexo);
+        // Console.WriteLine("Estado civil " + estadocivil);
+        if (!estadocivil){
+            Console.WriteLine("Soltero");
+        }else{
+            Console.WriteLine("Casado");
+        }
+
+        
+        // Console.WriteLine("Estado civil usuario (1 casado, 0 soltero) : "+estadocivil);
+
+        return nombre;
+    }
+
+    public string? Modificar(){
+        Console.WriteLine("Que dato desea modificar?");
+        Console.WriteLine("1.-Nombre \n 2.- Edad \n 3.-Estatura \n 4.-Sexo \n 5.-Estado Civil \n 6.-Regresar al menú anterior");
+        int eleccion = int.Parse(Console.ReadLine());
+
+        switch(eleccion){
+            case 1:
+           
+            Console.WriteLine("Esta seguro que desea hacer el cambio? \n 1- Si \n 2 - No");
+             int conf = int.Parse(Console.ReadLine());
+            if (conf == 1){
+                Console.WriteLine("Ingrese su nuevo nombre");
+                string NuevoNombre = Console.ReadLine();
+                nombre = NuevoNombre;
+            }else{
+                break;
+            }
+            
+            break;
+
+            case 2:
+             Console.WriteLine("Esta seguro que desea hacer el cambio? \n 1- Si \n 2 - No");
+             int conf1 = int.Parse(Console.ReadLine());
+             if (conf1 == 1){
+                Console.WriteLine("Ingrese su nueva edad");
+                int NuevaEdad = int.Parse(Console.ReadLine());
+                edad = NuevaEdad;
+            }else{
+                break;
+            }
+            
+            break;
+
+            case 3: 
+             Console.WriteLine("Esta seguro que desea hacer el cambio? \n 1- Si \n 2 - No");
+             int conf2 = int.Parse(Console.ReadLine());
+             if (conf2 == 1){
+                Console.WriteLine("Ingrese su nueva estatura");
+                float NuevaEstatura = float.Parse(Console.ReadLine());
+                estatura = NuevaEstatura;
+             }else{
+                break;
+             }
+            
+            break;
+
+            case 4:
+            Console.WriteLine("Esta seguro que desea hacer el cambio? \n 1- Si \n 2 - No");
+             int conf3 = int.Parse(Console.ReadLine());
+             if (conf3 == 1){
+                Console.WriteLine("Ingrese su nuevo sexo");
+                char NuevoSexo = char.Parse(Console.ReadLine());
+                sexo = NuevoSexo;
+             }else{
+                break;
+             }
+
+            
+            break;
+
+            case 5:
+            Console.WriteLine("Esta seguro que desea hacer el cambio? \n 1- Si \n 2 - No");
+             int conf4 = int.Parse(Console.ReadLine());
+             if (conf4 == 1){
+                Console.WriteLine("Ingrese su nuevo estado civil \n 1 casado \n 0 soltero");
+                int NuevoEstadoCivil = int.Parse(Console.ReadLine());
+                if (NuevoEstadoCivil == 1){
+                    estadocivil = true;
+                }else{
+                    estadocivil = false;
+                }
+                
+             }else{
+                break;
+             }
+           
+            break;
+
+            case 6:
+            break;
+
+         
+        }
+        
+        return nombre;
+
+
+    }
+}
