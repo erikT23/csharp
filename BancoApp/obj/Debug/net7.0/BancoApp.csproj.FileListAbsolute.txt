@@ -1,0 +1,15 @@
+C:\Users\CA3\Documents\csharp\BancoApp\bin\Debug\net7.0\BancoApp.exe
+C:\Users\CA3\Documents\csharp\BancoApp\bin\Debug\net7.0\BancoApp.deps.json
+C:\Users\CA3\Documents\csharp\BancoApp\bin\Debug\net7.0\BancoApp.runtimeconfig.json
+C:\Users\CA3\Documents\csharp\BancoApp\bin\Debug\net7.0\BancoApp.dll
+C:\Users\CA3\Documents\csharp\BancoApp\bin\Debug\net7.0\BancoApp.pdb
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.AssemblyInfo.cs
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.dll
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\refint\BancoApp.dll
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.pdb
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\BancoApp.genruntimeconfig.cache
+C:\Users\CA3\Documents\csharp\BancoApp\obj\Debug\net7.0\ref\BancoApp.dll
