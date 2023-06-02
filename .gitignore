@@ -26,3 +26,4 @@ Actividad8/obj/Debug/net7.0/Actividad8.GeneratedMSBuildEditorConfig.editorconfig
 Actividad8/obj/Debug/net7.0/Actividad8.assets.cache
 *.editorconfig
 *.cache
+*.bin
