@@ -1,0 +1,15 @@
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.AssemblyInfo.cs
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\csharp\ExamenApp\bin\Debug\net7.0\ExamenApp.exe
+C:\Users\CA3\Documents\csharp\ExamenApp\bin\Debug\net7.0\ExamenApp.deps.json
+C:\Users\CA3\Documents\csharp\ExamenApp\bin\Debug\net7.0\ExamenApp.runtimeconfig.json
+C:\Users\CA3\Documents\csharp\ExamenApp\bin\Debug\net7.0\ExamenApp.dll
+C:\Users\CA3\Documents\csharp\ExamenApp\bin\Debug\net7.0\ExamenApp.pdb
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.dll
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\refint\ExamenApp.dll
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.pdb
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ExamenApp.genruntimeconfig.cache
+C:\Users\CA3\Documents\csharp\ExamenApp\obj\Debug\net7.0\ref\ExamenApp.dll
