@@ -70,30 +70,16 @@ public class TestPersona
             switch (opcion)
             {
                 case 1:
-                    Console.WriteLine("¿Estás seguro de que deseas mostrar los datos? (S/N)");
-                    string? confirmacionMostrar = Console.ReadLine();
-                    if (confirmacionMostrar?.ToUpper() == "S")
-                    {
-                        Console.WriteLine("Datos de usuario");
-                        Console.WriteLine(objPersona.Obtener());
-                    }
-                    else
-                    {
-                        Console.WriteLine("Operación cancelada.");
-                    }
+
+                    Console.WriteLine("Datos de usuario");
+                    Console.WriteLine(objPersona.Obtener());
+
                     break;
 
                 case 2:
-                    Console.WriteLine("¿Estás seguro de que deseas cambiar los datos? (S/N)");
-                    string? confirmacionCambiar = Console.ReadLine();
-                    if (confirmacionCambiar?.ToUpper() == "S")
-                    {
-                        objPersona.Modificar();
-                    }
-                    else
-                    {
-                        Console.WriteLine("Operación cancelada.");
-                    }
+
+                    objPersona.Modificar();
+
                     break;
 
                 case 3:
